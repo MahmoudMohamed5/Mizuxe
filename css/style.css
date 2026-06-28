@@ -5,3 +5,12 @@
 .nav-link {
   font-size: 24px;
 }
+
+header {
+  background-image:
+    linear-gradient(rgba(50, 147, 166, 0.7), rgba(50, 147, 166, 0.7)),
+    url(../images/mountains.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
